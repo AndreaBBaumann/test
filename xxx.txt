@@ -1,3 +1,7 @@
 vddsfvfdsv
 noch ein Test
+<<<<<<< HEAD
 test2
+=======
+und das kommt jetzt runter?
+>>>>>>> 56ceab30787b40e5dfb6cac8db36e57db9a115cc
